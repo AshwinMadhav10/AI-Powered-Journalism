@@ -2,6 +2,14 @@
 
 Welcome to the **AI-Powered Journalism** platform! This application revolutionizes the way users consume news by leveraging advanced Artificial Intelligence to scrape, analyze, summarize, and interact with global news articles in real-time.
 
+## 📸 Screenshots
+
+### News Dashboard
+![News Dashboard](screenshots/news_dashboard.png)
+
+### Article Chat & Analysis
+![Article Chat](screenshots/chat_page.png)
+
 ## 🌟 Overview
 
 The AI-Powered Journalism app provides a streamlined, intelligent feed of current world news. By aggregating articles from top global publishers (BBC, CNN, Al Jazeera, The Guardian), the application automates sentiment analysis to give you a quick read on the emotional tone of the news. Furthermore, it integrates cutting-edge Large Language Models (LLMs) to automatically summarize lengthy articles and offers an interactive chat interface to ask specific questions about the news content.
